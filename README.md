@@ -34,7 +34,7 @@
 <h2></h2>
 <h3> Skills </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,python,javascript,nodejs,nextjs,tailwind,heroku,django,docker,github,vscode,md,netlify,postgres,tensorflow&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,python,javascript,nodejs,nextjs,tailwind,heroku,django,docker,github,vscode,md,netlify,postgres,tensorflow&perline=10)](https://skillicons.dev)
 
 
 <h2></h2>
@@ -67,7 +67,7 @@
 <h3 align="center"> Find me on <h3/> 
   
 <p align="center">
-  <a href="">
+  <a href="https://www.kaggle.com/dialaabukhail">
     <img src="https://cdn.iconscout.com/icon/free/png-64/kaggle-3445684-2878616.png" />
   </a>
 
