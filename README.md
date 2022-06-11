@@ -2,7 +2,9 @@
 
 <h3> About me </h3>
 
-👩‍ 💻 I am a full-stack Software developer but thrives in Front-end. 
+👩‍ 💻 I am a full-stack Software developer.
+
+💖 Passionate about Front-end.
   
 👷‍ Bachelor in Civil Engineering.
   
