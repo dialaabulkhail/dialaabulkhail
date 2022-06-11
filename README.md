@@ -38,6 +38,7 @@
 
 
 <h2></h2>
+<div></div>
 <h3>Blogs</h3>
 
 - [AI Traffic System](https://dialabk.hashnode.dev/ai-traffic-system-with-python)
@@ -47,10 +48,10 @@
 - [Step by setp insertion sort algorithm](https://dialabk.hashnode.dev/insertion-sort-algorithm)
 
 - [Merge sort algorithm](https://dialabk.hashnode.dev/merge-sort-algorithm)
+
   
 <h2></h2>
-<h3> Stats <h3/>
-  
+
 <div align="center">
   <a href="https://gpvc.arturio.dev/dialaabulkhail">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dialaabulkhail&show_icons=true&theme=radical" />
@@ -60,10 +61,7 @@
   </a>
 </div>
 
-
 <h2></h2>
-<h2></h2>
-  
 <h3 align="center"> Find me on <h3/> 
   
 <p align="center">
@@ -74,4 +72,3 @@
   <a href="https://www.hackerrank.com/diala_sh_98?hr_r=1">
     <img src="https://cdn.iconscout.com/icon/free/png-64/hackerrank-3445637-2878569.png" />
   </a>
-
