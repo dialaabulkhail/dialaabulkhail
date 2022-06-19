@@ -13,7 +13,9 @@
     <a href="mailto:diala.sh.98@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    
+    <a href="https://my-portfolio-d22w9zllu-dialaabulkhail.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge"/>
+    </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=dialaabulkhail&style=flat-square&color=blue" alt=""/>
 </div>
