@@ -10,7 +10,7 @@
     <a href="https://hashnode.com/@DialaBK">
       <img src="https://img.shields.io/badge/HashNode-blue?style=for-the-badge&logo=hashnode&logoColor=white" />
     </a>
-    <a href="mailto:diala.sh.98@gmail.com">
+    <a href="mailto:dabulkhail@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 <!--     <a href="https://my-portfolio-dialaabulkhail.vercel.app/">
