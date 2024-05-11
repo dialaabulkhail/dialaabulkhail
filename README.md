@@ -31,7 +31,6 @@
   
 👷‍ Bachelor in Civil Engineering.
   
-🌱 Currently learning Python.
 
 <h2></h2>
 <h3> Skills </h3>
